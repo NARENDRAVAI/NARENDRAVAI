@@ -66,22 +66,12 @@
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NarendraVaishnav&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NarendraVaishnav&theme=tokyonight" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NarendraVaishnav&layout=compact&theme=tokyonight"/>
-</p>
-
 ---
 
 ## 🌐 Connect With Me
 
 - 💼 LinkedIn: https://www.linkedin.com/in/narendra-vaishnav-b58252319
 - 📧 Email: narendravaishnav741@gmail.com  
-- ▶️ YouTube: *(your upcoming AI animated channel)*  
 
 ---
 
